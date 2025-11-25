@@ -1,5 +1,5 @@
 const MODE = "QUIZ";
-const QUIZ_ID = "quiz_v7";
+const QUIZ_ID = "quiz_v8";
 
 // ================= LEADERBOARD HELPERS ==================
 function loadLeaderboard() {
